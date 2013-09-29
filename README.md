@@ -2,6 +2,7 @@ dropwizard-helloworld
 =====================
 
 Changes in README.MD
+Dropwizard-helloworld
 
 $ mvn clean package
 
